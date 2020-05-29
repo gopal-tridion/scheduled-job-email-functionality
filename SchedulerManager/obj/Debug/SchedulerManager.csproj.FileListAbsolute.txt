@@ -1,0 +1,6 @@
+C:\Users\s913817\Desktop\Desktop\SchedulerManager-noexe-noexe\SchedulerManager-noexe\SchedulerManager\bin\Debug\SchedulerManager.dll
+C:\Users\s913817\Desktop\Desktop\SchedulerManager-noexe-noexe\SchedulerManager-noexe\SchedulerManager\bin\Debug\SchedulerManager.pdb
+C:\Users\s913817\Desktop\Desktop\SchedulerManager-noexe-noexe\SchedulerManager-noexe\SchedulerManager\obj\Debug\SchedulerManager.csproj.CoreCompileInputs.cache
+C:\Users\s913817\Desktop\Desktop\SchedulerManager-noexe-noexe\SchedulerManager-noexe\SchedulerManager\obj\Debug\SchedulerManager.dll
+C:\Users\s913817\Desktop\Desktop\SchedulerManager-noexe-noexe\SchedulerManager-noexe\SchedulerManager\obj\Debug\SchedulerManager.pdb
+C:\Users\s913817\Desktop\Desktop\SchedulerManager-noexe-noexe\SchedulerManager-noexe\SchedulerManager\obj\Debug\SchedulerManager.csprojResolveAssemblyReference.cache
